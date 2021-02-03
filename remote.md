@@ -6,4 +6,4 @@
  **and when i use git remote -v, you can view all the remote URLs next to their corresponding short names.**
 
 
- ![remote](remote.png!)
+ ![remote](remote.png)
