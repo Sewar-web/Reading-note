@@ -13,4 +13,4 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the Jordan University of 
 | markdown2         |        [markdown]( https://sewar-web.github.io/Reading-note/markdown2 )        |
 | remote         |        [markdown]( https://sewar-web.github.io/Reading-note/remote )        |
 
-| reading-js            |                              [descrption](https://sewar-web.github.io/Reading-note/)                               |
+| reading-js            |             [javascript](https://sewar-web.github.io/Reading-note/javascript)                               |
