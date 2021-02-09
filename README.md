@@ -14,5 +14,5 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the Jordan University of 
 | remote           |          [markdown]( https://sewar-web.github.io/Reading-note/remote )           |
 | reading-js       | [javascript]( https://github.com/Sewar-web/Reading-note/blob/main/reading-js.md) |
 | javaSUM          |           [javaSUM](https://sewar-web.github.io/Reading-note/javaSUM)            |
-| functions        |          [javaSUM](https://sewar-web.github.io/Reading-note/functions)           |
-| color            |            [javaSUM](https://sewar-web.github.io/Reading-note/color)             |
+| functions        |          [function](https://sewar-web.github.io/Reading-note/functions)          |
+| color            |             [color](https://sewar-web.github.io/Reading-note/color)              |
