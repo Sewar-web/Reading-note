@@ -30,7 +30,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the Jordan University of 
 | Read05          |          [Read05](https://sewar-web.github.io/Reading-note/Read05)           | :------------: |
 | Read06          |          [Read06](https://sewar-web.github.io/Reading-note/Read06)           |
 | Read07          |          [Read07](https://sewar-web.github.io/Reading-note/Read07)           |
-| ------          |                                :------------:                                |
+| Read08          |          [Read08](https://sewar-web.github.io/Reading-note/Read08)           |
 | ------          |                                :------------:                                |
 | ------          |                                :------------:                                |
 | ------          |                                :------------:                                |
