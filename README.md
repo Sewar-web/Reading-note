@@ -1,7 +1,7 @@
 
 # MY-READ
 
-i'm sewar mustafa ,i'm 23 years old , I graduated from the Jordan University of Science and Technology, majoring in Software EngineeringوAnd now I'm learning a software development course in LTUC
+i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , majoring in Software Engineering and now I'm learning a software development course in LTUC
 
 
 | reads            |                                    descrption                                    |
@@ -36,5 +36,31 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the Jordan University of 
 | Read11          |          [Read11](https://sewar-web.github.io/Reading-note/Read11)           |
 | Read12          |          [Read12](https://sewar-web.github.io/Reading-note/Read12)           |
 | Read13          |          [Read13](https://sewar-web.github.io/Reading-note/Read13)           |
-| Read14a          |          [Read14a](https://sewar-web.github.io/Reading-note/Read14a)           |
-| Read14B          |          [Read14B](https://sewar-web.github.io/Reading-note/Read14B)           |
+| Read14a         |         [Read14a](https://sewar-web.github.io/Reading-note/Read14a)          |
+| Read14B         |         [Read14B](https://sewar-web.github.io/Reading-note/Read14B)          |
+
+
+
+
+<strong> Reading Note code 301 <strong>
+
+
+| reads  | descrption |
+| ------ | :--------: |
+| Read01 |            |
+| Read02 |            |
+| Read03 |            |
+| Read04 |            |
+| Read05 |            |
+| Read06 |            |
+| Read07 |            |
+| Read08 |            |
+| Read09 |            |
+| Read10 |            |
+| Read11 |            |
+| Read12 |            |
+| Read13 |            |
+| Read14 |            |
+| Read15 |            |
+
+
