@@ -54,7 +54,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | reads            |                                   descrption                                   |
 | ---------------- | :----------------------------------------------------------------------------: |
 | Responsive&Float | [Responsive&Float]( https://sewar-web.github.io/Reading-note/Responsive&Float) |
-| Jquery           |          [Jquery]( https://sewar-web.github.io/Reading-note/J query)           |
+| Jquery           |          [Jquery]( https://sewar-web.github.io/Reading-note/Jquery)           |
 | templet&flexbox  |  [templet&flexbox]( https://sewar-web.github.io/Reading-note/templet&flexbox)  |
 | Read04           |                                                                                |
 | Read05           |                                                                                |
