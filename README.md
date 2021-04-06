@@ -59,7 +59,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | Read04Res        |        [Read04Res]( https://sewar-web.github.io/Reading-note/Read04Res)        |
 | nodeJS           |           [nodeJS]( https://sewar-web.github.io/Reading-note/nodeJS)           |
 | APIs             |             [APIs]( https://sewar-web.github.io/Reading-note/APIs)             |
-| Read07           |                                                                                |
+| sql              |              [sql]( https://sewar-web.github.io/Reading-note/sql)              |
 | Read08           |                                                                                |
 | Read09           |                                                                                |
 | Read10           |                                                                                |
