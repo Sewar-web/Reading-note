@@ -63,7 +63,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | sql              |              [sql]( https://sewar-web.github.io/Reading-note/sql)              |
 | function1        |        [function1]( https://sewar-web.github.io/Reading-note/function1)        |
 | stack            |            [stack]( https://sewar-web.github.io/Reading-note/stack)            |
-| Read10           |                                                                                |
+| EJS              |              [EJS]( https://sewar-web.github.io/Reading-note/EJS)              |
 | Read11           |                                                                                |
 | Read12           |                                                                                |
 | Read13           |                                                                                |
