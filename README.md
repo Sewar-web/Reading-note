@@ -95,7 +95,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | recursion    | [recursion]( https://sewar-web.github.io/Reading-note/recursion)       |
 | ReadWrite    | [ReadWrite]( https://sewar-web.github.io/Reading-note/ReadWrite)       |
 | clasesobject | [clasesobject]( https://sewar-web.github.io/Reading-note/clasesobject) |
-| list         | [list]( https://sewar-web.github.io/Reading-note/list)                 |
+| list         | [list](https://sewar-web.github.io/Reading-note/list)                 |
 | -----------  | -----------                                                            |
 | -----------  | -----------                                                            |
 | -----------  | -----------                                                            |
