@@ -89,20 +89,25 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 
 
 
-| read         | descriptions                                                           |
-| ------------ | ---------------------------------------------------------------------- |
-| pain         | [pain]( https://sewar-web.github.io/Reading-note/pain)                 |
-| recursion    | [recursion]( https://sewar-web.github.io/Reading-note/recursion)       |
-| ReadWrite    | [ReadWrite]( https://sewar-web.github.io/Reading-note/ReadWrite)       |
-| clasesobject | [clasesobject]( https://sewar-web.github.io/Reading-note/clasesobject) |
-| list         | [list](https://sewar-web.github.io/Reading-note/list)                  |
-| random       | [random]( https://sewar-web.github.io/Reading-note/random)             |
-| pythonScope  | [pythonScope]( https://sewar-web.github.io/Reading-note/pythonScope)   |
-| listt        | [listt]( https://sewar-web.github.io/Reading-note/listt)               |
-| dunder       | [dunder]( https://sewar-web.github.io/Reading-note/dunder)             |
-| stackQueues  | [stackQueues]( https://sewar-web.github.io/Reading-note/stackQueues)   |
-| DataAnalysis | [DataAnalysis]( https://sewar-web.github.io/Reading-note/DataAnalysis) |
-| panda        | [panda]( https://sewar-web.github.io/Reading-note/panda)               |
-| regressions  | [regressions]( https://sewar-web.github.io/Reading-note/regressions)   |
+| read              | descriptions                                                                     |
+| ----------------- | -------------------------------------------------------------------------------- |
+| pain              | [pain]( https://sewar-web.github.io/Reading-note/pain)                           |
+| recursion         | [recursion]( https://sewar-web.github.io/Reading-note/recursion)                 |
+| ReadWrite         | [ReadWrite]( https://sewar-web.github.io/Reading-note/ReadWrite)                 |
+| clasesobject      | [clasesobject]( https://sewar-web.github.io/Reading-note/clasesobject)           |
+| list              | [list](https://sewar-web.github.io/Reading-note/list)                            |
+| random            | [random]( https://sewar-web.github.io/Reading-note/random)                       |
+| pythonScope       | [pythonScope]( https://sewar-web.github.io/Reading-note/pythonScope)             |
+| listt             | [listt]( https://sewar-web.github.io/Reading-note/listt)                         |
+| dunder            | [dunder]( https://sewar-web.github.io/Reading-note/dunder)                       |
+| stackQueues       | [stackQueues]( https://sewar-web.github.io/Reading-note/stackQueues)             |
+| DataAnalysis      | [DataAnalysis]( https://sewar-web.github.io/Reading-note/DataAnalysis)           |
+| panda             | [panda]( https://sewar-web.github.io/Reading-note/panda)                         |
+| regressions       | [regressions]( https://sewar-web.github.io/Reading-note/regressions)             |
+| DataVisualization | [DataVisualization]( https://sewar-web.github.io/Reading-note/DataVisualization) |
+| ------------      | ----------------------------------------------------------------------           |
+| ------------      | ----------------------------------------------------------------------           |
+| ------------      | ----------------------------------------------------------------------           |
+
 
 
