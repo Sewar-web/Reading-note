@@ -105,7 +105,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | panda             | [panda]( https://sewar-web.github.io/Reading-note/panda)                         |
 | regressions       | [regressions]( https://sewar-web.github.io/Reading-note/regressions)             |
 | DataVisualization | [DataVisualization]( https://sewar-web.github.io/Reading-note/DataVisualization) |
-| ------------      | ----------------------------------------------------------------------           |
+| tree              | [tree]( https://sewar-web.github.io/Reading-note/tree)                           |
 | ------------      | ----------------------------------------------------------------------           |
 | ------------      | ----------------------------------------------------------------------           |
 
