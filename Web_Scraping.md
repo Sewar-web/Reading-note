@@ -157,4 +157,4 @@ Once this happens, a real browser is necessary in most cases to scrape the data.
 1. Selenium
 2. Puppeteer and Pyppeteer
 3. Playwright
-4. 
+   
