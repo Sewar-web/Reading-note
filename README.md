@@ -110,7 +110,7 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | Web_Scraping      | [Web_Scraping]( https://sewar-web.github.io/Reading-note/Web_Scraping)           |
 | Cryptography      | [Cryptography]( https://sewar-web.github.io/Reading-note/Cryptography)           |
 | Automation        | [Automation]( https://sewar-web.github.io/Reading-note/Automation)               |
-| ----------------- | -------------------------------------------------------------------------------- |
+| django            | [django]( https://sewar-web.github.io/Reading-note/django)                       |
 | ----------------- | -------------------------------------------------------------------------------- |
 | ----------------- | -------------------------------------------------------------------------------- |
 | ----------------- | -------------------------------------------------------------------------------- |
