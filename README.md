@@ -111,8 +111,8 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | Cryptography      | [Cryptography]( https://sewar-web.github.io/Reading-note/Cryptography)           |
 | Automation        | [Automation]( https://sewar-web.github.io/Reading-note/Automation)               |
 | django            | [django]( https://sewar-web.github.io/Reading-note/django)                       |
-| django_models     | [ django_models]( https://sewar-web.github.io/Reading-note/django_models)       |
-| ----------------- | -------------------------------------------------------------------------------- |
+| django_models     | [ django_models]( https://sewar-web.github.io/Reading-note/django_models)        |
+| django_forms      | [ django_forms]( https://sewar-web.github.io/Reading-note/django_forms)        |
 | ----------------- | -------------------------------------------------------------------------------- |
 | ----------------- | -------------------------------------------------------------------------------- |
 
