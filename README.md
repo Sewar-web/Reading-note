@@ -117,7 +117,6 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | hash              | [hash]( https://sewar-web.github.io/Reading-note/hash)                           |
 | Docker            | [Docker]( https://sewar-web.github.io/Reading-note/Docker)                       |
 | Permissions       | [Permissions]( https://sewar-web.github.io/Reading-note/Permissions)             |
-
 | Authentication    | [Authentication](https://sewar-web.github.io/Reading-note/Authentication)        |
 | DjangoSettings    | [DjangoSettings](https://sewar-web.github.io/Reading-note/DjangoSettings)        |
 | ----------------- | -------------------------------------------------------------------------------- |
