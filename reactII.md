@@ -36,21 +36,21 @@ In HTML, form elements such as <input>, <textarea>, and <select> typically maint
 
 * **what happens when you edit an input?** :
   
-  1.  React calls the function specified as onChange on the DOM < input >. In our case, this is the handleChange method in the TemperatureInput component.
+1.  React calls the function specified as onChange on the DOM < input >. In our case, this is the handleChange method in the TemperatureInput component.
   
-  2. The handleChange method in the TemperatureInput component calls this.props.onTemperatureChange() with the new desired value. Its props, including onTemperatureChange, were provided by its parent component, the Calculator.
+2. The handleChange method in the TemperatureInput component calls this.props.onTemperatureChange() with the new desired value. Its props, including onTemperatureChange, were provided by its parent component, the Calculator.
   
-  3. When it previously rendered, the Calculator had specified that onTemperatureChange of the Celsius TemperatureInput is the Calculator’s handleCelsiusChange method, and onTemperatureChange of the Fahrenheit TemperatureInput is the Calculator’s handleFahrenheitChange method. So either of these two Calculator methods gets called depending on which input we edited.
+3. When it previously rendered, the Calculator had specified that onTemperatureChange of the Celsius TemperatureInput is the Calculator’s handleCelsiusChange method, and onTemperatureChange of the Fahrenheit TemperatureInput is the Calculator’s handleFahrenheitChange method. So either of these two Calculator methods gets called depending on which input we edited.
   
-  4. Inside these methods, the Calculator component asks React to re-render itself by calling this.setState() with the new input value and the current scale of the input we just edited.
+4. Inside these methods, the Calculator component asks React to re-render itself by calling this.setState() with the new input value and the current scale of the input we just edited.
   
-  5. React calls the Calculator component’s render method to learn what the UI should look like. The values of both inputs are recomputed based on the current temperature and the active scale. The temperature conversion is performed here.
+5. React calls the Calculator component’s render method to learn what the UI should look like. The values of both inputs are recomputed based on the current temperature and the active scale. The temperature conversion is performed here.
   
-  6. React calls the render methods of the individual TemperatureInput components with their new props specified by the Calculator. It learns what their UI should look like.
+6. React calls the render methods of the individual TemperatureInput components with their new props specified by the Calculator. It learns what their UI should look like.
   
-  7. React calls the render method of the BoilingVerdict component, passing the temperature in Celsius as its props.
+7. React calls the render method of the BoilingVerdict component, passing the temperature in Celsius as its props.
   
-  8. React DOM updates the DOM with the boiling verdict and to match the desired input values. The input we just edited receives its current value, and the other input is updated to the temperature after conversion.
+8. React DOM updates the DOM with the boiling verdict and to match the desired input values. The input we just edited receives its current value, and the other input is updated to the temperature after conversion.
 
 
 * React has a powerful composition model, and we recommend using composition instead of inheritance to reuse code between components.
