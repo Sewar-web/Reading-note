@@ -9,6 +9,16 @@
 
 * If you want render a part of the component while the rest of the output doesn’t change,you can use variables to store elements.
 
+* When you don’t have stable IDs for rendered items, you may use the item index as a key as a last resort
+
+* Keys only make sense in the context of the surrounding array.
+
+* Keys used within arrays should be unique among their siblings. However they don’t need to be globally unique. We can use the same keys when we produce two different arrays
+HTML form elements work a little bit differently from other DOM elements in React, because form elements naturally keep some internal state.
+
+* n most cases, it’s convenient to have a JavaScript function that handles the submission of the form and has access to the data that the user entered into the form. The standard way to achieve this is with a technique called “controlled components”.
+In HTML, form elements such as <input>, <textarea>, and <select> typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
+
 
 * You may embed expressions in JSX by wrapping them in curly braces. This includes the JavaScript logical && operator. 
 
