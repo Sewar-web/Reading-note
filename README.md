@@ -125,8 +125,8 @@ i'm sewar mustafa ,i'm 23 years old , I graduated from the JUST University , maj
 | reactII           | [reactII](https://sewar-web.github.io/Reading-note/reactII)                      |
 | reactIII          | [reactIII](https://sewar-web.github.io/Reading-note/reactIII)                    |
 | reactIIII         | [reactIIII](https://sewar-web.github.io/Reading-note/reactIIII)                  |
-| ----------------- | -------------------------------------------------------------------------------- |
-| ----------------- | -------------------------------------------------------------------------------- |
+| Pythonisms        | [Pythonisms](https://sewar-web.github.io/Reading-note/Pythonisms)                |
+| Ethics            | [Ethics](https://sewar-web.github.io/Reading-note/Ethics)                        |
 
 
 
